@@ -67,6 +67,9 @@
 
 </p>
 
+
+
+/>
 ### 📢 Contato:
 - [LinkedIn](https://www.linkedin.com/in/kaique-nepomuceno-223b87323)
 - Email: nepomucenokaique@gmail.com
