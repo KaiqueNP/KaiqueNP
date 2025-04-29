@@ -1,5 +1,13 @@
 # 👩🏻‍💻 KaiqueNP
 
+# Olá, eu sou o Kaique da Silva Nepomuceno!
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento **Web Fullstack**. Tenho experiência com projetos em frontend, backend e automações.
+
+### 📢 Contato:
+- [LinkedIn](https://www.linkedin.com/in/kaique-nepomuceno-223b87323)
+- Email: nepomucenokaique@gmail.com
+- GitHub: [@KaiqueNP](https://github.com/KaiqueNP)
 
 
 ### 🤖 Linguagens e Tecnologias
